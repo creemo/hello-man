@@ -1,2 +1,3 @@
 # hello-man
-new try
+new day
+nice edition
